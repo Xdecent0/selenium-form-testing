@@ -25,7 +25,7 @@
 ### 1️⃣ Клонуй репозиторій
 
 ```bash
-git clone https://github.com/[твій-username]/selenium-form-testing.git
+git remote add origin https://github.com/Xdecent0/selenium-form-testing.git
 cd selenium-form-testing
 ```
 
