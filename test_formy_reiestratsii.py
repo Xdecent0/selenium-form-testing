@@ -571,7 +571,6 @@ class TestFormyReiestratsii:
             print("   Форма потребує доопрацювання.")
         
         print("=" * 70)
-        print("\n📸 Скріншоти збережені в папці /mnt/user-data/outputs/")
         print("\n✅ ТЕСТУВАННЯ ЗАВЕРШЕНО\n")
     
     def zakryty_brauzer(self):
